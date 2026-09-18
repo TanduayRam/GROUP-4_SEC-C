@@ -1,0 +1,27 @@
+{
+  "name": "group-4_sec-tion-c",
+  "version": "1.0.0",
+  "description": "midterm exam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TanduayRam/GROUP-4_SEC-C.git"
+  },
+  "keywords": [
+    "Group4",
+    "sia",
+    "exam"
+  ],
+  "author": "Group4_C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TanduayRam/GROUP-4_SEC-C/issues"
+  },
+  "homepage": "https://github.com/TanduayRam/GROUP-4_SEC-C#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
